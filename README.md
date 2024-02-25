@@ -1,6 +1,6 @@
 # Задание 2: Запуск СМЭВ 4 адаптера в Docker
 
-## p.s Файл с выполненным заданием слишком большой, поэтому его необходимо скачать [файл с Google drive](https://drive.google.com/file/d/1AAZtdpHQciFF_jFhGqm5-9Drn-Gtk-qf/view?usp=sharing).
+## p.s Файл с выполненным заданием слишком большой, поэтому необходимо скачать [архив с Google drive](https://drive.google.com/file/d/1AAZtdpHQciFF_jFhGqm5-9Drn-Gtk-qf/view?usp=sharing).
 
 
 ### 1. Ознакомиться с документацией Агента ПОДД (СМЭВ 4 Адаптер)
