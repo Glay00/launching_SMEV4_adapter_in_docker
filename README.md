@@ -1,6 +1,6 @@
 # Задание 2: Запуск СМЭВ 4 адаптера в Docker
 
-## p.s Файл с выполненным заданием слишком большой, поэтому необходимо скачать [архив с Google drive](https://drive.google.com/file/d/1R6vzVSbFaJRpGkalFew0UibGJAZbepSs/view?usp=sharing) (см. примечание).
+## p.s Файл с выполненным заданием слишком большой, поэтому необходимо скачать [архив с Google drive](https://drive.google.com/file/d/1xpKGZwYINpuNBQIB-aNqZsioy-NDjsY2/view?usp=sharing) (см. примечание).
 
 ### 1. Ознакомиться с документацией Агента ПОДД (СМЭВ 4 Адаптер)
 
@@ -26,7 +26,7 @@
 
 - сформировал log-файл командой ```./log.sh```
 
-см. ```log-20240225-114110.txt``` в корне [проекта](https://drive.google.com/file/d/1R6vzVSbFaJRpGkalFew0UibGJAZbepSs/view?usp=sharing) скаченного с Google drive.
+см. ```log-20240225-114110.txt``` в корне [проекта](https://drive.google.com/file/d/1xpKGZwYINpuNBQIB-aNqZsioy-NDjsY2/view?usp=sharing) скаченного с Google drive.
 
 ### 4. Описать схему обмена сведениями в СМЭВ 4
 
@@ -106,7 +106,7 @@
 
 ### Примечание:
 
-- Для запуска необходимо разархивировать скачанный [файл](https://drive.google.com/file/d/1AAZtdpHQciFF_jFhGqm5-9Drn-Gtk-qf/view?usp=sharing),
+- Для запуска необходимо разархивировать скачанный [файл](https://drive.google.com/file/d/1xpKGZwYINpuNBQIB-aNqZsioy-NDjsY2/view?usp=sharing),
   а также в корне проекта разархивировать certs.zip и keys.zip.
 
 ---
